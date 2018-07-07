@@ -1,0 +1,6 @@
+This is a dummy data file for testing purpose
+So don't expect anything more.
+
+Hope you understood
+
+Rule - Whenever open this file add a dummy line or remove one.
